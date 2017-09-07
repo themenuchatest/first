@@ -27,3 +27,5 @@ describe('Protractor Demo App', function() {
     expect(latestResult.getText()).toEqual('10');
   });
 });
+
+//Protractor spec file example
